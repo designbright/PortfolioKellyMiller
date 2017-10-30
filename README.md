@@ -1,2 +1,1 @@
-
-# PortfolioKellyMiller
+# Welcome to my Design Portfolio!
