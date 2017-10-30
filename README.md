@@ -8,4 +8,4 @@
 
 3. Learn more about the history of Design Bright and how I created this persona for myself
 
-4. 
+4. View my coded projects that I created
