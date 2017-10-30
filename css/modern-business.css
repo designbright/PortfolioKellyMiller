@@ -61,3 +61,7 @@ header{
 .portfolio-item {
     margin-bottom: 30px;
 }
+
+.infographic col-lg-8 col-lg-8{
+  margin-left: 400px;
+}
